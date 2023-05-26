@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cauecamara&label=Profile%20views&color=0e75b6&style=flat" alt="cauecamara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cauecamara" alt="cauecamara" /></a> </p>
-
 - 🔭 Estou atualmente trabalhando no projeto [Pokedex](https://github.com/cauecamara/Pokedex)
 
 - 🌱 Atualmente estou aprendendo **Swift**

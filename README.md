@@ -10,6 +10,8 @@
 
 - 📫 Como entrar em contato comigo **cauecamara@gmail.com**
 
+![snake gif](https://github.com/cauecamara/cauecamara/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cauecamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cauecamara" height="30" width="40" /></a>
@@ -20,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cauecamara&show_icons=true&locale=en" alt="cauecamara" /></p>
 
-![Snake animation](https://github.com/cauecamara/cauecamara/blob/output/github-contribution-grid-snake.svg)

@@ -1,12 +1,12 @@
 
 <h1 align="center">Oi 👋, eu sou o Cauê</h1>
-<h3 align="center">Aspirante a desenvolvedor iOS</h3>
+<h3 align="center">Aspirante a desenvolvedor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cauecamara&label=Profile%20views&color=0e75b6&style=flat" alt="cauecamara" /> </p>
 
-- 🔭 Estou atualmente trabalhando no projeto [Pokedex](https://github.com/cauecamara/Pokedex)
+- 🔭 Estou atualmente trabalhando no projeto privado [Serenia]
 
-- 🌱 Atualmente estou aprendendo **Swift**
+- 🌱 Atualmente estou aprendendo **React**
 
 - 📫 Como entrar em contato comigo **cauecamara@gmail.com**
 
